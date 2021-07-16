@@ -3,7 +3,7 @@ import React from "react";
 function Hello() {
   return (
     <div>
-      <h1>Hello from react rebase example</h1>
+      <h1>Ola Mundo, pater noster que es in coelis</h1>
     </div>
   );
 }
